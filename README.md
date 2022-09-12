@@ -64,3 +64,4 @@ npm run devstart
 <br>
 
 # [<h3>Connect with us on Discord](https://discord.gg/5PNFxQF2nz) 
+<img src="https://img.shields.io/discord/764030364611117056" />
